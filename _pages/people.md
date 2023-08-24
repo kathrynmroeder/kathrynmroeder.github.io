@@ -12,7 +12,7 @@ redirect_from:
 # Postdocs
 
 - [Haeun Moon]()
-- [Tianyu Zhang]()
+- [Tianyu Zhang](https://terrytianyuzhang.github.io/)
 
 
 # Ph.D. students
