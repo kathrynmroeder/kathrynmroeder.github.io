@@ -11,5 +11,8 @@ main:
         
   - title: "People"
     url: /people/
+
+  - title: "Software"
+    url: /software/    
     
   
