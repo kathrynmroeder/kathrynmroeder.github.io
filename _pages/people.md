@@ -11,7 +11,7 @@ redirect_from:
 
 # Postdocs
 
-- [Haeun Moon]()
+- [Haeun Moon](https://www.cmu.edu/dietrich/statistics-datascience/people/faculty/haeun-moon.html)
 - [Tianyu Zhang](https://terrytianyuzhang.github.io/)
 
 
