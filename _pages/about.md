@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 # OPEN POSITION!
-A two/three year postdoctoral position is open in Professor Kathryn Roeder's research group co-directed by Professor Jing Lei (http://www.stat.cmu.edu/~jinglei/).  The successful candidate will apply cutting edge methods in statistics and machine learning to solve scientific problems emerging from genetics, using modern large-scale genomics data such as single-cell sequencing data.  We are looking for highly motivated individuals with a strong background in statistical methodology/theory, and a genuine interest in science and data-driven research.
-Instructions: Send an email to roeder@andrew.cmu.edu including CV, research interests, links to your two best manuscripts, and a list of 3 references.
+A two year postdoctoral position is open in Professor Kathryn Roeder's research group co-directed by Professor Jing Lei (http://www.stat.cmu.edu/~jinglei/).  The successful candidate will apply cutting edge methods in statistics and machine learning to solve scientific problems emerging from genetics, using modern large-scale genomics data such as single-cell sequencing data.  We are looking for highly motivated individuals with a strong background in statistical methodology/theory, and a genuine interest in science and data-driven research.
+Instructions:  To apply, go to  http://apply.interfolio.com/138418
 
 # About Me
 I began my career as a biologist, but found that every question that interested me could only be answered by solving an even more intriguing statistical puzzle. Thus my career path veered into statistics. However, much of my work, both theoretical and applied, remains motivated by my scientific training.
