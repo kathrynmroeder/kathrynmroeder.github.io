@@ -12,7 +12,7 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "Software"
-    url: /software/    
+#  - title: "Software"
+#    url: /software/    
     
   
