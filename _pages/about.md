@@ -21,7 +21,7 @@ The collaborative research I have enjoyed most is in the area of statistical gen
 UPMC Professor of Statistics and Life Sciences       
 Department of Statistics and Computational Biology   
 Carnegie Mellon University   
-Baker Hall 228B   
+Baker Hall 132F
 Pittsburgh, PA 15213   
 
 Email: roeder at andrew.cmu.edu      
