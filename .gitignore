@@ -1,2 +1,7 @@
 _site/
 
+*.Rhistory
+
+*.DS_Store
+
+

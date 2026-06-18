@@ -3,8 +3,8 @@ main:
   - title: "Brief Bio"
     url: https://www.cmu.edu/dietrich/statistics-datascience/people/faculty/kathryn-roeder.html
 
-  - title: "Publications"
-    url: /publications/    
+#  - title: "Publications"
+#    url: /publications/    
 
   - title: "CV"
     url: /cv/    
